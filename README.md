@@ -1,0 +1,2 @@
+# Linear_Regression
+Linear regression is a linear approach to model the relationship between a dependent variable (target variable) and one (simple regression) or more (multiple regression) independent variables. Python has different libraries that allow us to plot a data set and analyze the relation between variables. In case we observe a linear trend, we can calculate the line that better fits our data and make predictions using this line.
