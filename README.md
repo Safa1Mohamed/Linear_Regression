@@ -1,2 +1,4 @@
 # Linear_Regression
 Linear regression is a linear approach to model the relationship between a dependent variable (target variable) and one (simple regression) or more (multiple regression) independent variables. Python has different libraries that allow us to plot a data set and analyze the relation between variables. In case we observe a linear trend, we can calculate the line that better fits our data and make predictions using this line.
+
+The dataset used in this article was obtained in Kaggle. Kaggle is an online community of data scientists and machine learners where it can be found a wide variety of datasets. The dataset contains 1338 observations (rows) and 7 features (columns). The dataset contains 4 numerical features (age, bmi, children and expenses) and 3 nominal features (sex, smoker and region).
